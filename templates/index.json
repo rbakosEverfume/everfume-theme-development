@@ -108,9 +108,122 @@
         "163738822092ea7e4f-2"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "Unisex Düfte",
         "desktop_layout": "left",
         "mobile_layout": "collage"
+      }
+    },
+    "16384976256596cedb": {
+      "type": "image-banner",
+      "blocks": {
+        "163849762513ca6d22-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Trockene Haut?",
+            "heading_size": "large"
+          }
+        },
+        "163849762513ca6d22-1": {
+          "type": "text",
+          "settings": {
+            "text": "Finde die passende Creme für deine trockene Haut"
+          }
+        },
+        "163849762513ca6d22-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Gesichtsreinigung und Peeling",
+            "button_link_1": "shopify:\/\/collections\/gesichtsreinigung-und-peeling",
+            "button_style_secondary_1": false,
+            "button_label_2": "Afterschave und Lotionen",
+            "button_link_2": "shopify:\/\/collections\/aftershave-und-lotionen",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "163849762513ca6d22-0",
+        "163849762513ca6d22-1",
+        "163849762513ca6d22-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cloudy-sky-from-above.jpg",
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-start",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16384975625d561f62": {
+      "type": "featured-product",
+      "blocks": {
+        "1638497562d6b34537-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1638497562d6b34537-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1638497562d6b34537-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1638497562d6b34537-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1638497562d6b34537-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1638497562d6b34537-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1638497562d6b34537-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1638497562d6b34537-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1638497562d6b34537-0",
+        "1638497562d6b34537-1",
+        "1638497562d6b34537-2",
+        "1638497562d6b34537-3",
+        "1638497562d6b34537-4",
+        "1638497562d6b34537-5",
+        "1638497562d6b34537-6",
+        "1638497562d6b34537-7"
+      ],
+      "settings": {
+        "product": "handcreme-nivea-olivenol-100-ml",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
       }
     },
     "16373881163fdefc0d": {
@@ -124,6 +237,8 @@
     "image_banner",
     "16373857497985e60c",
     "16373882206ada65be",
+    "16384976256596cedb",
+    "16384975625d561f62",
     "16373881163fdefc0d"
   ]
 }
