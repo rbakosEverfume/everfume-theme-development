@@ -231,12 +231,6 @@
       "settings": {
         "heading": "Bei Fragen stehen wir Ihnen gerne zur Verfügung"
       }
-    },
-    "16384975808bc87e44": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "50% Rabatt mit dem Code:\nRenediepommesfressmaschine360"
-      }
     }
   },
   "order": [
@@ -245,7 +239,6 @@
     "16373882206ada65be",
     "16384976256596cedb",
     "16384975625d561f62",
-    "16373881163fdefc0d",
-    "16384975808bc87e44"
+    "16373881163fdefc0d"
   ]
 }
