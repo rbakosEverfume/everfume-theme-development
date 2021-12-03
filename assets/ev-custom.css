@@ -1,0 +1,20 @@
+/* Change bg-color of modal-box */
+.banner__box {
+	background-color: #f2ece3;
+}
+
+
+/* Center Headline 2 'Beliebte Kategorien' */
+#shopify-section-template--15407228879106__16373857497985e60c > div > div > h2 {
+	margin: 0 auto;
+}
+
+/* Change width of popular categories section */
+#Slider-template--15407228879106__16373857497985e60c > li:nth-child(n) {
+	width: 25%;
+}
+
+/* Make category card background transparent */
+#Slider-template--15407228879106__16373857497985e60c > li:nth-child(n) > a > div > div.card__text.card__text-spacing.card-colored.card__text-hover.color-background-1 {
+	background: #fff;
+}
