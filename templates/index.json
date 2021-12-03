@@ -1,1 +1,129 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"d5c9ab0f-0307-4a71-a52d-7e969aea1ef4":{"type":"heading","settings":{"heading":"Winterkollektion","heading_size":"medium"}},"c780200b-e529-4583-9c93-d838db67d4f2":{"type":"buttons","settings":{"button_label_1":"Damenparfüm","button_link_1":"shopify:\/\/collections\/parfums-damen","button_style_secondary_1":false,"button_label_2":"Herrenparfüm","button_link_2":"shopify:\/\/collections\/parfums-herren","button_style_secondary_2":false}},"6c897cbc-02d5-4ae8-9f97-0d9f891d6d10":{"type":"text","settings":{"text":"Jetzt die neue Winterkollektion entdecken!"}}},"block_order":["d5c9ab0f-0307-4a71-a52d-7e969aea1ef4","c780200b-e529-4583-9c93-d838db67d4f2","6c897cbc-02d5-4ae8-9f97-0d9f891d6d10"],"settings":{"image":"shopify:\/\/shop_images\/laura-chouette-R0T3AR1wKo8-unsplash.jpg","image_2":"shopify:\/\/shop_images\/alina-rubo-HjO5vw_PP5c-unsplash.jpg","image_height":"medium","adapt_height_first_image":false,"desktop_text_box_position":"flex-end","show_text_box":true,"image_overlay_opacity":0,"color_scheme":"background-1","stack_images_on_mobile":true,"show_text_below":true}},"16373857497985e60c":{"type":"collection-list","blocks":{"1637385749ea5d2262-0":{"type":"featured_collection","settings":{"collection":"parfums-damen"}},"1637385749ea5d2262-1":{"type":"featured_collection","settings":{"collection":"parfums-herren"}},"1637385749ea5d2262-2":{"type":"featured_collection","settings":{"collection":"gesichtsreinigung-und-peeling"}},"f2299506-2841-415f-b10b-bf0366c5ddce":{"type":"featured_collection","settings":{"collection":"parfum-kosmetik"}}},"block_order":["1637385749ea5d2262-0","1637385749ea5d2262-1","1637385749ea5d2262-2","f2299506-2841-415f-b10b-bf0366c5ddce"],"settings":{"title":"Beliebte Kategorien","image_ratio":"square","color_scheme":"background-1","swipe_on_mobile":false,"image_padding":false,"show_view_all":false}},"16373882206ada65be":{"type":"collage","blocks":{"163738822092ea7e4f-0":{"type":"video","settings":{"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","description":"Describe the video","image_padding":false}},"163738822092ea7e4f-1":{"type":"product","settings":{"product":"","second_image":false,"image_padding":false,"secondary_background":false}},"163738822092ea7e4f-2":{"type":"collection","settings":{"collection":"","image_padding":false,"color_scheme":"background-1"}}},"block_order":["163738822092ea7e4f-0","163738822092ea7e4f-1","163738822092ea7e4f-2"],"settings":{"heading":"Multimedia collage","desktop_layout":"left","mobile_layout":"collage"}},"16373881163fdefc0d":{"type":"contact-form","settings":{"heading":"Bei Fragen stehen wir Ihnen gerne zur Verfügung"}}},"order":["image_banner","16373857497985e60c","16373882206ada65be","16373881163fdefc0d"]}
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "d5c9ab0f-0307-4a71-a52d-7e969aea1ef4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Winterkollektion",
+            "heading_size": "medium"
+          }
+        },
+        "c780200b-e529-4583-9c93-d838db67d4f2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Damenparfüm",
+            "button_link_1": "shopify:\/\/collections\/parfums-damen",
+            "button_style_secondary_1": false,
+            "button_label_2": "Herrenparfüm",
+            "button_link_2": "shopify:\/\/collections\/parfums-herren",
+            "button_style_secondary_2": false
+          }
+        },
+        "6c897cbc-02d5-4ae8-9f97-0d9f891d6d10": {
+          "type": "text",
+          "settings": {
+            "text": "Jetzt die neue Winterkollektion entdecken!"
+          }
+        }
+      },
+      "block_order": [
+        "d5c9ab0f-0307-4a71-a52d-7e969aea1ef4",
+        "c780200b-e529-4583-9c93-d838db67d4f2",
+        "6c897cbc-02d5-4ae8-9f97-0d9f891d6d10"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/laura-chouette-R0T3AR1wKo8-unsplash.jpg",
+        "image_2": "shopify:\/\/shop_images\/alina-rubo-HjO5vw_PP5c-unsplash.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16373857497985e60c": {
+      "type": "collection-list",
+      "blocks": {
+        "1637385749ea5d2262-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "parfums-damen"
+          }
+        },
+        "1637385749ea5d2262-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gesundheit-beauty"
+          }
+        },
+        "1637385749ea5d2262-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "parfums-herren"
+          }
+        }
+      },
+      "block_order": [
+        "1637385749ea5d2262-0",
+        "1637385749ea5d2262-2",
+        "1637385749ea5d2262-1"
+      ],
+      "settings": {
+        "title": "Beliebte Kategorien",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
+    "16373882206ada65be": {
+      "type": "collage",
+      "blocks": {
+        "163738822092ea7e4f-1": {
+          "type": "product",
+          "settings": {
+            "product": "unisex-parfum-calvin-klein-ck-all-100-ml",
+            "second_image": true,
+            "image_padding": true,
+            "secondary_background": true
+          }
+        },
+        "163738822092ea7e4f-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "parfums-unisex",
+            "image_padding": true,
+            "color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "163738822092ea7e4f-1",
+        "163738822092ea7e4f-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "16373881163fdefc0d": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Bei Fragen stehen wir Ihnen gerne zur Verfügung"
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "16373857497985e60c",
+    "16373882206ada65be",
+    "16373881163fdefc0d"
+  ]
+}
