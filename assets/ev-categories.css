@@ -1,9 +1,3 @@
-/* Change bg-color of modal-box */
-.banner__box {
-	background-color: #f2ece3;
-}
-
-
 /* Center Headline 2 'Beliebte Kategorien' */
 #shopify-section-template--15407228879106__16373857497985e60c > div > div > h2 {
 	margin: 0 auto;
