@@ -127,12 +127,6 @@
         "show_text_below": true
       }
     },
-    "16373881163fdefc0d": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Bei Fragen stehen wir Ihnen gerne zur Verfügung"
-      }
-    },
     "163857078192e6e5c0": {
       "type": "collection-list",
       "blocks": {
@@ -168,13 +162,19 @@
         "image_padding": true,
         "show_view_all": true
       }
+    },
+    "16373881163fdefc0d": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Bei Fragen stehen wir Ihnen gerne zur Verfügung"
+      }
     }
   },
   "order": [
     "image_banner",
     "16373857497985e60c",
     "16384976256596cedb",
-    "16373881163fdefc0d",
-    "163857078192e6e5c0"
+    "163857078192e6e5c0",
+    "16373881163fdefc0d"
   ]
 }
