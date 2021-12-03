@@ -82,37 +82,6 @@
         "show_view_all": false
       }
     },
-    "16373882206ada65be": {
-      "type": "collage",
-      "blocks": {
-        "163738822092ea7e4f-1": {
-          "type": "product",
-          "settings": {
-            "product": "unisex-parfum-calvin-klein-ck-all-100-ml",
-            "second_image": true,
-            "image_padding": true,
-            "secondary_background": true
-          }
-        },
-        "163738822092ea7e4f-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "parfums-unisex",
-            "image_padding": true,
-            "color_scheme": "background-2"
-          }
-        }
-      },
-      "block_order": [
-        "163738822092ea7e4f-1",
-        "163738822092ea7e4f-2"
-      ],
-      "settings": {
-        "heading": "Unisex Düfte",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
     "16384976256596cedb": {
       "type": "image-banner",
       "blocks": {
@@ -158,72 +127,40 @@
         "show_text_below": true
       }
     },
-    "16384975625d561f62": {
-      "type": "featured-product",
+    "163857078192e6e5c0": {
+      "type": "collection-list",
       "blocks": {
-        "1638497562d6b34537-0": {
-          "type": "text",
+        "1638570781aed64b05-0": {
+          "type": "featured_collection",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
+            "collection": "geschenke-fur-frauen"
           }
         },
-        "1638497562d6b34537-1": {
-          "type": "title",
+        "1638570781aed64b05-1": {
+          "type": "featured_collection",
           "settings": {
+            "collection": ""
           }
         },
-        "1638497562d6b34537-2": {
-          "type": "text",
+        "1638570781aed64b05-2": {
+          "type": "featured_collection",
           "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1638497562d6b34537-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1638497562d6b34537-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1638497562d6b34537-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1638497562d6b34537-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1638497562d6b34537-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "1638497562d6b34537-0",
-        "1638497562d6b34537-1",
-        "1638497562d6b34537-2",
-        "1638497562d6b34537-3",
-        "1638497562d6b34537-4",
-        "1638497562d6b34537-5",
-        "1638497562d6b34537-6",
-        "1638497562d6b34537-7"
+        "1638570781aed64b05-0",
+        "1638570781aed64b05-1",
+        "1638570781aed64b05-2"
       ],
       "settings": {
-        "product": "handcreme-nivea-olivenol-100-ml",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false
+        "title": "Geschenkhighlights",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": true,
+        "show_view_all": true
       }
     },
     "16373881163fdefc0d": {
@@ -231,21 +168,13 @@
       "settings": {
         "heading": "Bei Fragen stehen wir Ihnen gerne zur Verfügung"
       }
-    },
-    "16384975808bc87e44": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "50% Rabatt mit dem Code:\nRenediepommesfressmaschine360"
-      }
     }
   },
   "order": [
     "image_banner",
     "16373857497985e60c",
-    "16373882206ada65be",
     "16384976256596cedb",
-    "16384975625d561f62",
-    "16373881163fdefc0d",
-    "16384975808bc87e44"
+    "163857078192e6e5c0",
+    "16373881163fdefc0d"
   ]
 }
