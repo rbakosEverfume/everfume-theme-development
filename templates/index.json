@@ -127,74 +127,6 @@
         "show_text_below": true
       }
     },
-    "16384975625d561f62": {
-      "type": "featured-product",
-      "blocks": {
-        "1638497562d6b34537-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1638497562d6b34537-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "1638497562d6b34537-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1638497562d6b34537-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1638497562d6b34537-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1638497562d6b34537-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1638497562d6b34537-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1638497562d6b34537-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1638497562d6b34537-0",
-        "1638497562d6b34537-1",
-        "1638497562d6b34537-2",
-        "1638497562d6b34537-3",
-        "1638497562d6b34537-4",
-        "1638497562d6b34537-5",
-        "1638497562d6b34537-6",
-        "1638497562d6b34537-7"
-      ],
-      "settings": {
-        "product": "handcreme-nivea-olivenol-100-ml",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false
-      }
-    },
     "16373881163fdefc0d": {
       "type": "contact-form",
       "settings": {
@@ -206,7 +138,6 @@
     "image_banner",
     "16373857497985e60c",
     "16384976256596cedb",
-    "16384975625d561f62",
     "16373881163fdefc0d"
   ]
 }
