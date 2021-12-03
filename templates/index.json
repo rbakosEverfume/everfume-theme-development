@@ -118,53 +118,12 @@
       "settings": {
         "heading": "Bei Fragen stehen wir Ihnen gerne zur Verfügung"
       }
-    },
-    "16384970077a4b0b7b": {
-      "type": "logo-list",
-      "blocks": {
-        "1638497007b2733d50-0": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/versace-3.png",
-            "link": ""
-          }
-        },
-        "1638497007b2733d50-1": {
-          "type": "logo_image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "1638497007b2733d50-2": {
-          "type": "logo_image",
-          "settings": {
-            "link": ""
-          }
-        },
-        "1638497007b2733d50-3": {
-          "type": "logo_image",
-          "settings": {
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1638497007b2733d50-0",
-        "1638497007b2733d50-1",
-        "1638497007b2733d50-2",
-        "1638497007b2733d50-3"
-      ],
-      "settings": {
-        "title": "Unsere Marken",
-        "logo_width": "125px"
-      }
     }
   },
   "order": [
     "image_banner",
     "16373857497985e60c",
     "16373882206ada65be",
-    "16373881163fdefc0d",
-    "16384970077a4b0b7b"
+    "16373881163fdefc0d"
   ]
 }
