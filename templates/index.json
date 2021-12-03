@@ -82,37 +82,6 @@
         "show_view_all": false
       }
     },
-    "16373882206ada65be": {
-      "type": "collage",
-      "blocks": {
-        "163738822092ea7e4f-1": {
-          "type": "product",
-          "settings": {
-            "product": "unisex-parfum-calvin-klein-ck-all-100-ml",
-            "second_image": true,
-            "image_padding": true,
-            "secondary_background": true
-          }
-        },
-        "163738822092ea7e4f-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "parfums-unisex",
-            "image_padding": true,
-            "color_scheme": "background-2"
-          }
-        }
-      },
-      "block_order": [
-        "163738822092ea7e4f-1",
-        "163738822092ea7e4f-2"
-      ],
-      "settings": {
-        "heading": "Unisex Düfte",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
     "16384976256596cedb": {
       "type": "image-banner",
       "blocks": {
@@ -236,7 +205,6 @@
   "order": [
     "image_banner",
     "16373857497985e60c",
-    "16373882206ada65be",
     "16384976256596cedb",
     "16384975625d561f62",
     "16373881163fdefc0d"
