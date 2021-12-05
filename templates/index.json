@@ -104,7 +104,7 @@
             "button_label_1": "Gesichtsreinigung und Peeling",
             "button_link_1": "shopify:\/\/collections\/gesichtsreinigung-und-peeling",
             "button_style_secondary_1": false,
-            "button_label_2": "Afterschave und Lotionen",
+            "button_label_2": "Aftershave und Lotionen",
             "button_link_2": "shopify:\/\/collections\/aftershave-und-lotionen",
             "button_style_secondary_2": false
           }
@@ -116,7 +116,7 @@
         "163849762513ca6d22-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cloudy-sky-from-above.jpg",
+        "image": "shopify:\/\/shop_images\/sea-glass-in-the-sand.jpg",
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-start",
