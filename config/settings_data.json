@@ -47,6 +47,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "3d2a0129-2971-4142-b6d8-d4b75b432572": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Highlights Damen",
+              "menu": "highlights-damen"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -56,6 +63,7 @@
           }
         },
         "block_order": [
+          "3d2a0129-2971-4142-b6d8-d4b75b432572",
           "footer-0"
         ],
         "settings": {
