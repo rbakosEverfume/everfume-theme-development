@@ -53,28 +53,10 @@
               "heading": "Informationen",
               "menu": "footer"
             }
-          },
-          "bc2ea44f-b7ca-4f76-8e3f-77c5eb607e8f": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/logo.png",
-              "image_width": 150,
-              "alignment": "center"
-            }
-          },
-          "7f24d539-2a5f-4115-b59c-874ef6242ab3": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/fc_logo.png",
-              "image_width": 200,
-              "alignment": "center"
-            }
           }
         },
         "block_order": [
-          "footer-0",
-          "bc2ea44f-b7ca-4f76-8e3f-77c5eb607e8f",
-          "7f24d539-2a5f-4115-b59c-874ef6242ab3"
+          "footer-0"
         ],
         "settings": {
           "color_scheme": "accent-2",
