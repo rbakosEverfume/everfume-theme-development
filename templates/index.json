@@ -207,7 +207,7 @@
         "1639156047c840a42c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Überzeugen Sie sich von<strong> 100% Original-Unisex-Parfüm Santal Blanc Van Cleef EDP.<\/strong><\/p>"
+            "text": "<p>Überzeugen Sie sich vom <strong>Unisex-Parfüm Santal Blanc <\/strong>von<strong> Van Cleef <\/strong>als<strong> EDP.<\/strong><\/p>"
           }
         },
         "1639156047c840a42c-2": {
@@ -226,7 +226,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/3386460108645_I20_cd07a900-ca36-4529-ba1a-11b7b9aaebd0.jpg",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "layout": "image_first"
       }
     }
