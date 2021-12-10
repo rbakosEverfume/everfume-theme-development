@@ -215,11 +215,6 @@
         "show_vendor": true,
         "show_rating": true
       }
-    },
-    "pagefly-home": {
-      "type": "pagefly-home",
-      "settings": {
-      }
     }
   },
   "order": [
@@ -230,7 +225,6 @@
     "16384976256596cedb",
     "1638724981d6da42f8",
     "163857078192e6e5c0",
-    "16391577197768fc2b",
-    "pagefly-home"
+    "16391577197768fc2b"
   ]
 }
