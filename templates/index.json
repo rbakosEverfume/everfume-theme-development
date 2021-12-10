@@ -77,7 +77,7 @@
         "title": "Beliebte Kategorien",
         "image_ratio": "square",
         "color_scheme": "background-1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_padding": false,
         "show_view_all": false
       }
