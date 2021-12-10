@@ -245,6 +245,22 @@
         "show_vendor": true,
         "show_rating": false
       }
+    },
+    "16391577197768fc2b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Stendhal Lippenstift Highlights",
+        "collection": "lippenstifte",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
     }
   },
   "order": [
@@ -255,6 +271,7 @@
     "163857078192e6e5c0",
     "1639154732b1f28860",
     "1639156047f225385f",
-    "16391575762714fc07"
+    "16391575762714fc07",
+    "16391577197768fc2b"
   ]
 }
