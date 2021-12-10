@@ -15,6 +15,7 @@
     "social_facebook_link": "https:\/\/www.facebook.com\/everfume",
     "social_pinterest_link": "https:\/\/pinterest.com\/everfumegermany",
     "social_instagram_link": "https:\/\/www.instagram.com\/everfumegermany",
+    "currency_code_enabled": false,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
