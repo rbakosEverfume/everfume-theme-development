@@ -179,72 +179,20 @@
         "show_view_all": false
       }
     },
-    "1639154576928a3133": {
-      "type": "featured-product",
-      "blocks": {
-        "16391545760997ced9-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "16391545760997ced9-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "16391545760997ced9-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "16391545760997ced9-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "16391545760997ced9-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "16391545760997ced9-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "16391545760997ced9-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "16391545760997ced9-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "16391545760997ced9-0",
-        "16391545760997ced9-1",
-        "16391545760997ced9-2",
-        "16391545760997ced9-3",
-        "16391545760997ced9-4",
-        "16391545760997ced9-5",
-        "16391545760997ced9-6",
-        "16391545760997ced9-7"
-      ],
+    "1639154732b1f28860": {
+      "type": "featured-collection",
       "settings": {
-        "product": "herrenparfum-ch-men-carolina-herrera-edt-1",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false
+        "title": "Beliebte Herrendüfte",
+        "collection": "beliebte-herrendufte",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
       }
     }
   },
@@ -254,6 +202,6 @@
     "1638724981d6da42f8",
     "16384976256596cedb",
     "163857078192e6e5c0",
-    "1639154576928a3133"
+    "1639154732b1f28860"
   ]
 }
