@@ -176,13 +176,7 @@
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
         "image_padding": true,
-        "show_view_all": true
-      }
-    },
-    "16373881163fdefc0d": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Bei Fragen stehen wir Ihnen gerne zur Verfügung"
+        "show_view_all": false
       }
     }
   },
@@ -191,7 +185,6 @@
     "16373857497985e60c",
     "1638724981d6da42f8",
     "16384976256596cedb",
-    "163857078192e6e5c0",
-    "16373881163fdefc0d"
+    "163857078192e6e5c0"
   ]
 }
