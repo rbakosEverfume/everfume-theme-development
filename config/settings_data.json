@@ -50,27 +50,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "3d2a0129-2971-4142-b6d8-d4b75b432572": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Highlights Damen",
-              "menu": "highlights-damen"
-            }
-          },
-          "8147ae00-01c1-4090-8e63-5b463e059574": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Highlights Herren",
-              "menu": "highlights-herren"
-            }
-          },
-          "4de5b3dd-7e19-4b54-98aa-fdb062bb136d": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Marken",
-              "menu": "marken"
-            }
-          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -80,9 +59,6 @@
           }
         },
         "block_order": [
-          "3d2a0129-2971-4142-b6d8-d4b75b432572",
-          "8147ae00-01c1-4090-8e63-5b463e059574",
-          "4de5b3dd-7e19-4b54-98aa-fdb062bb136d",
           "footer-0"
         ],
         "settings": {
