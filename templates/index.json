@@ -194,6 +194,41 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "1639156047f225385f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1639156047c840a42c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unisex-Parfüm Santal Blanc Van Cleef EDP (75 ml)"
+          }
+        },
+        "1639156047c840a42c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Überzeugen Sie sich von<strong> 100% Original-Unisex-Parfüm Santal Blanc Van Cleef EDP.<\/strong><\/p>"
+          }
+        },
+        "1639156047c840a42c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1639156047c840a42c-0",
+        "1639156047c840a42c-1",
+        "1639156047c840a42c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3386460108645_I20_cd07a900-ca36-4529-ba1a-11b7b9aaebd0.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -202,6 +237,7 @@
     "1638724981d6da42f8",
     "16384976256596cedb",
     "163857078192e6e5c0",
-    "1639154732b1f28860"
+    "1639154732b1f28860",
+    "1639156047f225385f"
   ]
 }
