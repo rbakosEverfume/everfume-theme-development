@@ -255,11 +255,11 @@
         "show_view_all": false,
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": false,
         "show_vendor": true,
-        "show_rating": false
+        "show_rating": true
       }
     }
   },
