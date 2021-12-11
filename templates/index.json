@@ -2,7 +2,6 @@
   "sections": {
     "16373857497985e60c": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "1637385749ea5d2262-0": {
           "type": "featured_collection",
@@ -39,7 +38,6 @@
     },
     "16391575762714fc07": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Beliebte Damendüfte",
         "collection": "beliebte-damendufte",
@@ -56,7 +54,6 @@
     },
     "1639156047f225385f": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1639156047c840a42c-0": {
           "type": "heading",
@@ -92,7 +89,6 @@
     },
     "1639154732b1f28860": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Beliebte Herrendüfte",
         "collection": "beliebte-herrendufte",
@@ -109,7 +105,6 @@
     },
     "16384976256596cedb": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "163849762513ca6d22-0": {
           "type": "heading",
@@ -155,7 +150,6 @@
     },
     "1638724981d6da42f8": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Unsere Bestseller",
         "collection": "braunung",
@@ -172,7 +166,6 @@
     },
     "163857078192e6e5c0": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "1638570781aed64b05-0": {
           "type": "featured_collection",
@@ -209,7 +202,6 @@
     },
     "16391577197768fc2b": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Stendhal Lippenstift Highlights",
         "collection": "lippenstifte",
@@ -223,11 +215,6 @@
         "show_vendor": true,
         "show_rating": true
       }
-    },
-    "pagefly-home": {
-      "type": "pagefly-home",
-      "settings": {
-      }
     }
   },
   "order": [
@@ -238,7 +225,6 @@
     "16384976256596cedb",
     "1638724981d6da42f8",
     "163857078192e6e5c0",
-    "16391577197768fc2b",
-    "pagefly-home"
+    "16391577197768fc2b"
   ]
 }
