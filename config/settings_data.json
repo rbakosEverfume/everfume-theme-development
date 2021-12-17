@@ -7,7 +7,7 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#F3F3F3",
-    "type_header_font": "crimson_text_n4",
+    "type_header_font": "slate_n3",
     "heading_scale": 105,
     "type_body_font": "avenir_next_n4",
     "page_width": "1200",
@@ -15,6 +15,7 @@
     "social_facebook_link": "https:\/\/www.facebook.com\/everfume",
     "social_pinterest_link": "https:\/\/pinterest.com\/everfumegermany",
     "social_instagram_link": "https:\/\/www.instagram.com\/everfumegermany",
+    "predictive_search_show_vendor": false,
     "currency_code_enabled": false,
     "sections": {
       "announcement-bar": {
